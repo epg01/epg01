@@ -16,6 +16,12 @@ I hope some dpua understand the kernel 🧠
 * ⚡   Music and travel lover
 
 
+<p>
+  <a>
+    <img src="https://github.com/epg01/epg01/blob/main/C.jpg">
+  </a>
+</p>
+
 ## Skills
 
 * 💻  C | Python | Java
