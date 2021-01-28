@@ -8,7 +8,7 @@ I love all programming languages, although I do not know most of them, but the o
 
 The languages that have happened to me the most and the ones that I would stay with for the rest of my life are C, python and machine language. 😍🥰🧡
 
-I hope some dpua understand the kernel 🧠
+I hope some day understand the kernel 🧠
 
 * 🔭  Fullstack software developer.
 * 🌱  Enthusiastic about design, algorithms, web development, and music.
