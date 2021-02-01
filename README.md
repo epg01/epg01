@@ -26,7 +26,7 @@ I hope some day understand the kernel 🧠
 
 * 💻  C | Python | Java
 * 🌐  HTML5 | CSS3
-* 🔧  Visual Studio code
+* 🔧  Emacs <3
 
 
 ## Yo can find me :point_down:
