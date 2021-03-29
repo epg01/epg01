@@ -22,3 +22,29 @@ I hope some day understand the kernel 🧠
 * 💻  C | Python | Java
 * 🌐  HTML5 | CSS3
 * 🔧  Emacs <3
+
+<details>
+	<summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
+	<br/>
+	<ul>
+		<li>
+			<a href="https://www.linkedin.com/pulse/mi-primer-printf-totalmente-recursivo-emmanuel-palacio-gaviria/">Mi primer printf totalmente recursivo
+</a>
+		</li>
+		<li>
+			<a href="https://www.linkedin.com/pulse/lenguaje-de-programaci%C3%B3n-go-el-c-del-siglo-xxi-palacio-gaviria/">Lenguaje de programación Go el C del siglo XXI.</a>
+		</li>
+		<li>
+			<a href="https://www.linkedin.com/pulse/argumentos-de-la-l%C3%ADnea-comandos-command-line-emmanuel-palacio-gaviria/">Ejercicios con el lenguaje de programación Go. (Command-Line Arguments).</a>
+		</li>
+		<li>
+			<a href="https://www.linkedin.com/pulse/everything-you-need-know-pointers-part-1-emmanuel-palacio-gaviria/">Everything you need to know about pointers. Part 1</a>
+		</li>
+    <li>
+			<a href="https://www.linkedin.com/pulse/recursion-emmanuel-palacio-gaviria/">Recursion</a>
+		</li>
+		<li>
+			<a href="https://www.linkedin.com/in/emmanuel-palacio/"><i>More…</i></a>
+		</li>
+	</ul>
+</details>
