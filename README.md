@@ -48,3 +48,10 @@ I hope some day understand the kernel 🧠
 		</li>
 	</ul>
 </details>
+
+<details>
+	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
+	<br/>
+	<img src="https://jf-gh-stats.vercel.app/api?username=epg01&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=epg01&layout=compact&hide=java&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Top Languages" align="top"/>
+</details>
