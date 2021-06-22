@@ -19,7 +19,7 @@ I hope some day understand the kernel 🧠
 
 ## Skills
 
-* 💻  C | Python | Java
+* 💻  C | Python | Javascript | Go | Docker | C++ | github-actions
 * 🌐  HTML5 | CSS3
 * 🔧  Emacs <3
 
